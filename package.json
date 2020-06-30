@@ -12,7 +12,7 @@
   "devDependencies": {
     "babel-preset-env": "^1.7.0",
     "babel-register": "^6.26.0",
-    "express-jwt": "^5.3.1",
+    "express-jwt": "^6.0.0",
     "jsonwebtoken": "^8.5.1",
     "jwk-to-pem": "^2.0.1",
     "jwks-rsa": "^1.5.1",
